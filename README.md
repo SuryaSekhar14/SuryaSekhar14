@@ -6,5 +6,3 @@ Programming Languages mainly include C, C++ and Python.
 
 Reach me at: suryasekhardatta22@gmail.com
 
-![Linkedin Badge](https://www.linkedin.com/in/surya-sekhar-datta/)
-
