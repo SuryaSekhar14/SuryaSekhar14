@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :octocat: Metrics
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryasekhar14&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+<c><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryasekhar14&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br></c>
