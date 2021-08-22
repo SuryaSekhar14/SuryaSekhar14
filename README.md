@@ -1,7 +1,6 @@
 # Hey, My name is Surya 👋
 
-A Web Developer, and 3rd Year B.Tech in Computer Science and Engineering Student. 
-
+A Web Developer and Python Developer. Currently in 3rd Year B.Tech, Computer Science and Engineering.
 Programming Languages mainly include C, C++ and Python.
 
 Reach me at: suryasekhardatta22@gmail.com
