@@ -3,9 +3,6 @@
 A Web Developer and Python Developer. Currently in 3rd Year B.Tech, Computer Science and Engineering.
 Programming Languages mainly include C, C++ and Python.
 
-Reach me at: suryasekhardatta22@gmail.com
-
-
 <!--
 # Hi there 👋
 ## I am Swapnanil Ray aka RedHatPanda 🐼
