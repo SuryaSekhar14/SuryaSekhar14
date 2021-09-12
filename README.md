@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![SuryaSekhar14 GitHub stats](https://github-readme-stats.vercel.app/api?username=SuryaSekhar14&show_icons=true&theme=radical) 
 ### :octocat: Metrics
 <c><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryasekhar14&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /></c><br>
  
