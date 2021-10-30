@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React.js, Go**
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **suryasekhardatta22@gmail.com**
-- ⚡ Fact about me **I drink insane amounts of coffee**
+- ⚡ Fun Fact about me **I drink insane amounts of coffee**
 
 ** **
 
