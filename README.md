@@ -1,4 +1,4 @@
-# Hey, My name is Surya 👋    
+# Hey, My name is Surya <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=50px/>  
  
 A Web Developer and Python Developer. Currently in 3rd Year B.Tech, Computer Science and Engineering.
 Programming Languages mainly include C, C++ and Python. 
