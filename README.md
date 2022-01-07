@@ -2,7 +2,7 @@
 <h3 align="center"><img align="centre" src="https://github.com/SuryaSekhar14/PersonalRepo/blob/master/memojinobg.png"></h3>
 <h3 align="center">A passionate Developer from India</h3>  
   
-   
+    
 **About Me:**
 - 👨🏽‍💻 I am a Junior Year Student(3rd Year) studying CSE in Institute of Engineering and Management
 - 🌱 I’m currently learning **React.js, Go**
