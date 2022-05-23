@@ -6,7 +6,7 @@
 **About Me:**
 - 👨🏽‍💻 I am a Junior Year Student(3rd Year) studying CSE in Institute of Engineering and Management
 - 🌱 I’m currently learning **React.js, Go**
-- 🥅 ${{owner}} Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **suryasekhardatta22@gmail.com**
 - ⚡ Fun Fact about me **I drink insane amounts of coffee**
 
