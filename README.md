@@ -1,5 +1,5 @@
-<h1 align="right">Hi <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=50px/>, I'm Surya</h1>
-<h3 align="center"><img align="centre" src="https://github.com/SuryaSekhar14/PersonalRepo/blob/master/memojinobg.png"></h3>
+<h1 align="centre">Hi <img src='https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif' alt='hi' width=50px/>, I'm Surya</h1>
+<h3 align="centre"><img align="centre" src="https://github.com/SuryaSekhar14/PersonalRepo/blob/master/memojinobg.png"></h3>
 <h3 align="center">A passionate Developer from India</h3>  
    
      
