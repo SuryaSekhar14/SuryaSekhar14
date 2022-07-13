@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Go**
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img style="padding-top:5px;" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 📫 How to reach me **suryasekhardatta22@gmail.com**
 
