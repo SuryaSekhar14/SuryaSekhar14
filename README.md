@@ -12,17 +12,17 @@
 
 - 👨🏽‍💻 I am a Senior Year Student(4th Year) studying CSE in Institute of Engineering and Management
 
-- 💬 Ask me about **Python**
+<!-- - 💬 Ask me about **Python** -->
 
 - 🌱 I’m currently learning **ReactJS, Go**
-
-<img style="padding-top:5px;" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 📫 How to reach me **suryasekhardatta22@gmail.com**
 
 - 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1gfZT00JLrySvTZE5xIxkbGg_5xHruheK/view?usp=sharing)
 
 - ⚡ Fact about me **I drink more Coffee than water**
+
+<img style="padding-top:5px;" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 
