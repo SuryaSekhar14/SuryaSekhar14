@@ -12,6 +12,8 @@
 
 - 👨🏽‍💻 I am a Senior Year Student(4th Year) studying CSE in Institute of Engineering and Management
 
+- 💬 Ask me about **Python**
+
 - 🌱 I’m currently learning **ReactJS, Go**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
