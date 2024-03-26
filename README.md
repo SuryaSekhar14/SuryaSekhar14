@@ -10,7 +10,7 @@
 
 <!-- - 🔭 I’m currently working on [<strong> </strong>]() -->
 
-- 👨🏽‍💻 I am a Senior Year Student(4th Year) studying CSE in Institute of Engineering and Management
+- 👨🏽‍💻 I am currently working as a Systems Engineer at Tata Consultancy Services
 
 <!-- - 💬 Ask me about **Python** -->
 
