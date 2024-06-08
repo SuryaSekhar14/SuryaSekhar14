@@ -14,7 +14,7 @@
 
 <!-- - 💬 Ask me about **Python** -->
 
-- 🌱 I’m currently learning **ReactJS, Go**
+- 🌱 I’m currently learning **NextJS, Go**
 
 - 📫 How to reach me **suryasekhardatta22@gmail.com**
 
