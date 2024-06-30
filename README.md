@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **suryasekhardatta22@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://suryasekhardatta.com/resume.pdf)
+- 📄 Know about my experiences [resume link](https://suryasekhardatta.com/resume.pdf){:target="_blank"}
 
 - ⚡ Fact about me **I drink more Coffee than water**
 
