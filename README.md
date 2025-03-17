@@ -4,6 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SuryaSekhar14&label=Profile%20views&color=0e75b6&style=flat" alt="SuryaSekhar14" /> </p>
 
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;About me: </h3>
@@ -53,6 +54,8 @@
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+
+  <img src="https://kuma.suryasekhardatta.com/api/push/NINeiOONSm?status=up&msg=OK&ping=" alt=""/>
 
 </p>
 
