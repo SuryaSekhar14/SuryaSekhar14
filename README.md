@@ -11,7 +11,7 @@
 
 <!-- - 🔭 I’m currently working on [<strong> </strong>]() -->
 
-- 👨🏽‍💻 I am currently working as a Systems Engineer at Tata Consultancy Services
+- 👨🏽‍💻 I am currently working as a Founding Engineer at Renben Technologies
 
 <!-- - 💬 Ask me about **Python** -->
 
